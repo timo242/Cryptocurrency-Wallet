@@ -1,4 +1,4 @@
-# Cryptocurrency-Wallet
+## Cryptocurrency-Wallet
 
 ![Ganache image 1](images/19-4-challenge-image.png)
 
