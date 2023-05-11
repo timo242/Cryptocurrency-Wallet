@@ -1,8 +1,8 @@
 ## Cryptocurrency-Wallet
 
-![Ganache image 1](images/19-4-challenge-image.png)
+![Ganache image 1](Images/19-4-challenge-image.png)
 
-![Ganache image 1](images/ganache.png)
+![Ganache image 1](Images/ganache.png)
 
-![Ganache image 1](images/ganache_tx.png)
+![Ganache image 1](Images/ganache_tx.png)
 
